@@ -562,11 +562,6 @@ body {
     padding: 28px;
   }
 
-  .candidate-photo {
-    width: 200px;
-    height: 200px;
-  }
-
   .projects-grid {
     grid-template-columns: 1fr;
   }
